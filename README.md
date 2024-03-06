@@ -1,4 +1,6 @@
-## Screenshots of the application:
+# Application Screenshots
 
-![Screenshot 1](<img src="./screenshots/Screenshot 2024-03-07 011922.png">)
-![Screenshot 2](<img src="./screenshots/Screenshot 2024-03-07 011950.png">)
+Check out these stylish screenshots of our application!
+
+![Screenshot 1](screenshots/Screenshot_1.png)
+![Screenshot 2](screenshots/Screenshot_2.png)
