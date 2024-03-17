@@ -24,7 +24,7 @@ function chillHop() {
     {
       name: "Legends",
       cover:
-        "images/legends.jpg",
+        "images/Thor.jpg",
       artist: "Against The Current",
       audio: "/musics/legends.mp3",
       color: ["#C9D7DD", "#7D0A0A"],
