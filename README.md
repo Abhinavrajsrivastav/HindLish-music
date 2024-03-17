@@ -1,6 +1,6 @@
-# Application Screenshots
+# Screenshots of the Application
 
 Check out these stylish screenshots of our application!
 
-![Screenshot 1](screenshots/Screenshot_1.png)
-![Screenshot 2](screenshots/Screenshot_2.png)
+![Screenshot 1](screenshots/Screenshot%202024-03-07%20011922.png)
+![Screenshot 2](screenshots/Screenshot%202024-03-07%20011950.png)
