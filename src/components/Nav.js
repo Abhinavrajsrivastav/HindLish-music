@@ -6,7 +6,7 @@ const Nav = ({ libraryStatus, setLibraryStatus }) => {
   return (
     <nav>
       <h1>
-        Hinlish vibe 💑
+        Hindi vibe 💑
       </h1>
       <button onClick={() => setLibraryStatus(!libraryStatus)}>
         Library 🎧 
